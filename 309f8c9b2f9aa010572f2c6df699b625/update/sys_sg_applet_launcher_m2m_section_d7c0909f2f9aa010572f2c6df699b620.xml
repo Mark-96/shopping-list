@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="Shopping List">f2c0981f2f9aa010572f2c6df699b6b5</applet_launcher>
+        <order/>
+        <section display_value="Shopping Item">5fc0909f2f9aa010572f2c6df699b61f</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-18 03:15:41</sys_created_on>
+        <sys_id>d7c0909f2f9aa010572f2c6df699b620</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Shopping List" source="x_580619_shopping">309f8c9b2f9aa010572f2c6df699b625</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">309f8c9b2f9aa010572f2c6df699b625</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_d7c0909f2f9aa010572f2c6df699b620</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-18 03:15:41</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+</record_update>
